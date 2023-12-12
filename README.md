@@ -1,4 +1,4 @@
-# numeros_pares_impares
+# Numeros_pares_impares
 
 Ejercicio desarrollador en el lenguaje JAVA, con el entorno de programación NetBeans
 
